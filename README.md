@@ -20,7 +20,7 @@
 </a>  
 </div>
 
-- <h3>💁 A passionate software engineer who love to play with codes</h3>
+- <h3>💁 A passionate software engineer who loves to play with code</h3>
 - <h3>👩‍🎓 Completed my graduation from <i>North South University</i></h3>
 - <h3>📚 Currently, learning to implement <i>node.js</i> using <i>typescript</i></h3>
 - <h3>🎨 Love to do creative kinds of stuffs like illustration, slide making, animation using <i>PowerPoint</i></h3>
