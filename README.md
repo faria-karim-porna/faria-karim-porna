@@ -20,7 +20,7 @@
 
 - <h3>👩‍🎓 Completed my graduation from <i>North South University</i></h3>
 - <h3>📚 Currently, learning to implement <i>node.js</i> using <i>typescript</i></h3>
-- <h3>🎨 In my free time, I love to do creative kinds of stuffs like illustration, slide making, animation using <i>PowerPoint</i></h3>
+- <h3>🎨 Love to do creative kinds of stuffs like illustration, slide making, animation using <i>PowerPoint</i></h3>
 
 ## 🛠 My Skill Set
 
