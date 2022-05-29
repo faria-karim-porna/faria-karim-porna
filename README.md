@@ -4,7 +4,7 @@
   
 ## <div align="center">Hi  👋 <br />I am Faria Karim Porna 👩‍💻 <h5>Currently working as an <i>Associate Software Engineer</i><br/>at <i>Kaz Software</i></h5><div><a href="https://kaz.com.bd/" target="_blank"><img src="https://bangladeshbusinessdir.com/wp-content/uploads/2015/05/KAZ-Software.jpg" alt=kaz height="50"/></a></div></div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faria-karim-porna" alt="faria-karim-porna"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faria-karim-porna&row=1&column=1" alt="faria-karim-porna"/></a> </p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=faria-karim-porna&&style=flat-square" align="center"/>
 </div>
