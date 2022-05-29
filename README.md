@@ -1,7 +1,8 @@
-<img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1e9.png" height="50" />
 <div align="center">
 <img src="https://ajmendez.github.io/assets/helloworld_finished.png" align="center" style="width: 100%" />
-</div>  
+</div>
+
+<div align="center"><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1e9.png" height="50" align="center"/></div>
   
 ## <div align="center">Hi  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30"/> <br />I am Faria Karim Porna 👩‍💻 <h5>Currently working as an <i>Associate Software Engineer</i><br/>at <i>Kaz Software</i></h5><div><a href="https://kaz.com.bd/" target="_blank"><img src="https://bangladeshbusinessdir.com/wp-content/uploads/2015/05/KAZ-Software.jpg" alt=kaz height="50"/></a></div></div>
 
