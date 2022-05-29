@@ -1,3 +1,4 @@
+<img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1e9.png" height="50" />
 <div align="center">
 <img src="https://ajmendez.github.io/assets/helloworld_finished.png" align="center" style="width: 100%" />
 </div>  
@@ -18,6 +19,7 @@
 </a>  
 </div>
 
+- <h3>💁 A passionate software engineer who love to play with codes</h3>
 - <h3>👩‍🎓 Completed my graduation from <i>North South University</i></h3>
 - <h3>📚 Currently, learning to implement <i>node.js</i> using <i>typescript</i></h3>
 - <h3>🎨 Love to do creative kinds of stuffs like illustration, slide making, animation using <i>PowerPoint</i></h3>
