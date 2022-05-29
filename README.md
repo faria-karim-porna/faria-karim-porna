@@ -2,7 +2,6 @@
 <img src="https://ajmendez.github.io/assets/helloworld_finished.png" align="center" style="width: 100%" />
 </div>  
   
-
 ## <div align="center">Hi  👋 <br />I am Faria Karim Porna 👩‍💻 <h5>Currently working as an <i>Associate Software Engineer</i><br/>at <i>Kaz Software</i></h5><div><a href="https://kaz.com.bd/" target="_blank"><img src="https://bangladeshbusinessdir.com/wp-content/uploads/2015/05/KAZ-Software.jpg" alt=kaz height="50"/></a></div></div>
 
 <div align="center">
@@ -19,6 +18,7 @@
 </div>
 
 ## My Skill Set
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -32,7 +32,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 </div>
 </td>
 <td width="33%" valign="top">
@@ -70,3 +70,7 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" align="center" style="width: 100%" />
+</div>  
