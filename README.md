@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hi  👋 <br />I am Faria Karim Porna 👩‍💻 <h5>Currently working as an <i>Associate Software Engineer</i><br/>at <i>Kaz Software</i></h5></div>
+## <div align="center">Hi  👋 <br />I am Faria Karim Porna 👩‍💻 <h5>Currently working as an <i>Associate Software Engineer</i><br/>at <i>Kaz Software</i></h5><div><a href="https://kaz.com.bd/" target="_blank"><img src="https://bangladeshbusinessdir.com/wp-content/uploads/2015/05/KAZ-Software.jpg" alt=kaz height="50"/></a></div></div>
 
 <div align="center">
 <a href="https://github.com/faria-karim-porna" target="_blank">
