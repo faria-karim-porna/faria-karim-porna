@@ -113,11 +113,11 @@
 </table>
 
 ## 📈 Github Stats  
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=faria-karim-porna&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top">
+</td><td valign="top" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faria-karim-porna&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
