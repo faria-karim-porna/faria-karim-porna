@@ -94,6 +94,21 @@
 </td>
 </tr>
 <tr>
+ <tr>
+<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
+<div align="center">
+<h3>Others</h3>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+</div>
+</td>
+<td width="33%" valign="top">
+</td>
+</tr>
 </table>
 
 <div align="center">
