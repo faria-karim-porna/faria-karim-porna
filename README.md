@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://ajmendez.github.io/assets/helloworld_finished.png" align="center" style="width: 100%" />
+<img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/helloWorld.png" align="center" style="width: 100%" />
 </div>
 
-<div align="center"><img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1e9.png" height="50" align="center"/></div>
+<div align="center"><img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/BDFlag.png" height="50" align="center"/></div>
   
-## <div align="center">Hi  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30"/> <br />I am Faria Karim Porna 👩‍💻 <h5>Currently working as an <i>Associate Software Engineer</i><br/>at <i>Kaz Software</i></h5><div><a href="https://kaz.com.bd/" target="_blank"><img src="https://bangladeshbusinessdir.com/wp-content/uploads/2015/05/KAZ-Software.jpg" alt=kaz height="50"/></a></div></div>
+## <div align="center">Hi  <img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/Hi.gif" height="30"/> <br />I am Faria Karim Porna 👩‍💻 <h5>Currently working as an <i>Associate Software Engineer</i><br/>at <i>Kaz Software</i></h5><div><a href="https://kaz.com.bd/" target="_blank"><img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/KAZ-Software.jpg" alt=kaz height="50"/></a></div></div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faria-karim-porna&row=1&column=1" alt="faria-karim-porna"/></a> </p>
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 - <h3>💁 A passionate software engineer who loves to play with code</h3>
-- <h3>👩‍🎓 Completed my graduation from <i>North South University</i></h3>
+- <h3>👩‍🎓 Completed graduation from <i>North South University</i></h3>
 - <h3>📚 Currently, learning to implement <i>node.js</i> using <i>typescript</i></h3>
 - <h3>🎨 Love to do creative kinds of stuffs like illustration, slide making, animation using <i>PowerPoint</i></h3>
 
@@ -119,7 +119,8 @@
 </tr>
 </table>
 
-## 📈 Github Stats  
+## 📈 Github Stats
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=faria-karim-porna&show_icons=true&count_private=true&hide_border=true" align="left" />
@@ -128,8 +129,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faria-karim-porna&hide_border=true&layout=compact" align="left"/>
 
-</td></tr></table>  
+</td></tr></table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" align="center" style="width: 100%" />
-</div>  
+<img src="https://github.com/faria-karim-porna/github-profile/blob/main/resources/footer.svg" align="center" style="width: 100%" />
+</div>
