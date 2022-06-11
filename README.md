@@ -27,97 +27,72 @@
 
 ## 🛠 My Skill Set
 
-<table>
-<tr>
-<td width="33%" valign="top">
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<h3>Programming Languages</h3>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+<div align="left"><img src="https://img.shields.io/badge/Programming Languages-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/typescript-211e1b?style=for-the-badge&logo=typescript&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/c-211e1b?style=for-the-badge&logo=c&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/c%23-211e1b?style=for-the-badge&logo=csharp&logoColor=22C4E1&labelColor=211e1b"/></div>
+<br/>
+<div align="left"><img src="https://img.shields.io/badge/Frontend-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left"><img src="https://img.shields.io/badge/html5-211e1b?style=for-the-badge&logo=html5&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/css3-211e1b?style=for-the-badge&logo=css3&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/redux-211e1b?style=for-the-badge&logo=redux&logoColor=22C4E1&labelColor=211e1b"/>
 </div>
-</td>
-<td width="33%" valign="top">
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<div align="center">
-<h3>Frontend</h3>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<br/>
+<div align="left"><img src="https://img.shields.io/badge/Backend-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left"><img src="https://img.shields.io/badge/express-211e1b?style=for-the-badge&logo=express&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/flask-211e1b?style=for-the-badge&logo=flask&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=22C4E1&labelColor=211e1b"/>
 </div>
-</td>
-<td width="33%" valign="top">
-<div align="center">  
-<h3>Backend</h3>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-</div>
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<h3>Database</h3>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<div align="center">
-<h3>App Development</h3>
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" height="50"/>
-</div>
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<h3>AI/ML</h3>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Panda" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-</div>
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<h3>Game Development</h3>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-</div>
-</td>
-</tr>
-<tr>
- <tr>
-<td width="33%" valign="top">
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<h3>Others</h3>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-</div>
-</td>
-<td width="33%" valign="top">
-</td>
-</tr>
-</table>
+<br/>
+<div align="left"><img src="https://img.shields.io/badge/Database-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left"><img src="https://img.shields.io/badge/mongodb-211e1b?style=for-the-badge&logo=mongodb&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=22C4E1&labelColor=211e1b"/></div>
+<br/>
+<div align="left"><img src="https://img.shields.io/badge/App Development-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/ionic-211e1b?style=for-the-badge&logo=ionic&logoColor=22C4E1&labelColor=211e1b"/></div>
+<br/>
+<div align="left">
+<img src="https://img.shields.io/badge/AI/ML-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/opencv-211e1b?style=for-the-badge&logo=opencv&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/keras-211e1b?style=for-the-badge&logo=keras&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/tensorflow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=22C4E1&labelColor=211e1b"/></div>
+<br/>
+<div align="left">
+<img src="https://img.shields.io/badge/Game Development-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/unity-211e1b?style=for-the-badge&logo=unity&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/construct3-211e1b?style=for-the-badge&logo=construct3&logoColor=22C4E1&labelColor=211e1b"/></div>
+<br/>
+<div align="left">
+<img src="https://img.shields.io/badge/Others-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF"/></div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/heroku-211e1b?style=for-the-badge&logo=heroku&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=22C4E1&labelColor=211e1b"/>
+<img src="https://img.shields.io/badge/arduino-211e1b?style=for-the-badge&logo=arduino&logoColor=22C4E1&labelColor=211e1b"/></div>
 
 ## 📈 Github Stats
 
